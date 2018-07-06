@@ -1,0 +1,22 @@
+{
+    "name": "flunky",
+    "displayName": "Flunky Theme",
+    "description": "A mildly funky theme for VS Code",
+    "version": "0.0.1",
+    "publisher": "kenziebottoms",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flunky",
+                "uiTheme": "vs-dark",
+                "path": "./themes/flunky.json"
+            }
+        ]
+    }
+}
