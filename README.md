@@ -1,13 +1,34 @@
-# README
-## This is the README for your extension "flunky"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Flunky
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Palette
+![Palette](palette.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- `#3B3633`/`#ECEDEA`
+- `#82D4C6`
+- `#BFE076`
+- `#E69EE1`
+- `#B9A1F3`
 
-**Enjoy!**
+## Previews
+
+- [Python](#python)
+- [Javascript](#javascript)
+- [Ruby](#ruby)
+
+### Python
+
+![Python](previews/python.png)
+
+### Javascript
+
+![Javascript](previews/js.png)
+
+### Ruby
+
+![Ruby](previews/ruby.png)
+
+---
+
+> _Sample code stolen from https://highlightjs.org/_
+
+> _Palette screenshot stolen from https://coolors.co_
