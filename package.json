@@ -1,22 +1,37 @@
 {
-    "name": "flunky",
-    "displayName": "Flunky Theme",
-    "description": "A mildly funky theme for VS Code",
-    "version": "0.0.1",
-    "publisher": "kenziebottoms",
-    "engines": {
-        "vscode": "^1.25.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Flunky",
-                "uiTheme": "vs-dark",
-                "path": "./themes/flunky.json"
-            }
-        ]
-    }
+  "name": "flunky",
+  "displayName": "Flunky Theme",
+  "description": "A mildly funky theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "kenziebottoms",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flunky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flunky.json"
+      }
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenziebottoms/vscode-theme-flunky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenziebottoms/vscode-theme-flunky/issues"
+  },
+  "homepage": "https://github.com/kenziebottoms/vscode-theme-flunky#readme"
 }
