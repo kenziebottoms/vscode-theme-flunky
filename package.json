@@ -2,7 +2,7 @@
   "name": "flunky",
   "displayName": "Flunky Theme",
   "description": "A mildly funky theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "kenziebottoms",
   "engines": {
     "vscode": "^1.24.1"
