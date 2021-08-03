@@ -15,7 +15,8 @@
 - [Javascript](#javascript)
 - [Ruby](#ruby)
 - [Java](#java)
-- [CSS](#css)
+- [Swift](#swift)
+- [SCSS](#scss)
 
 ### Python
 
@@ -33,9 +34,13 @@
 
 ![Java](previews/java.png)
 
-### CSS
+### Swift
 
-![CSS](previews/css.png)
+![Swift](previews/swift.png)
+
+### SCSS
+
+![SCSS](previews/scss.png)
 
 ---
 
